@@ -1,3 +1,4 @@
+![TLC logo](https://user-images.githubusercontent.com/87195262/134807871-6389592c-65f6-4fda-81be-86e3923bf1d9.png)
 ### Company info
 The New York City Taxi and Limousine Commission (TLC) is an agency that is responsible for licensing and regulating New York City's taxi cabs. Over 200,000 TLC licensees complete approximately 1,000,000 trips each day.
 
@@ -31,5 +32,5 @@ The dataset includes 11 columns and following is the description of each feature
 Since the distribution plan will be started at the end of 2021, the scope of this project will be tested on the last three months of 2019. The data of 2020 are not chosen since it might be affected by Covid-19 pandemic.
 
 ### Tools
-•	Technologies: SQL, SQLite, Python, Jupyter notebook.
-•	Libraries: NumPy, Pandas, Matplotlib, Seaborn, SQLAlchemy.
+* Technologies: SQL, SQLite, Python, Jupyter notebook.
+* Libraries: NumPy, Pandas, Matplotlib, Seaborn, SQLAlchemy.
