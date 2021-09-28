@@ -6,4 +6,4 @@ As an initial observation, I noticed that the top 10 stations that have the high
 ### Figure 1
 ![download](https://user-images.githubusercontent.com/87195262/135001550-b0c8db14-fe77-492c-b9a2-f44706e3037c.png)
 ### Figure 2
-![download (1)](https://user-images.githubusercontent.com/87195262/135001561-162df822-ff26-4714-8143-e344e317b626.png)
+![6](https://user-images.githubusercontent.com/87195262/135002274-b455e24c-f850-4871-9706-567844ea9d58.png)
