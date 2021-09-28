@@ -5,7 +5,7 @@
 The New York City Taxi and Limousine Commission (TLC) is an agency that is responsible for licensing and regulating New York City's taxi cabs. Over 200,000 TLC licensees complete approximately 1,000,000 trips each day.
 
 # Problem statement
-For the last four years, TLC has been working on making 50000 self-driving taxis to start distributing them in late 2021. They are planning to start by distributing the taxis at the subway stations. Therefore, they need to decide the distribution plan based on the number of units per station and the total number of exits per station.
+For the last four years, TLC has been working on making 5000 self-driving taxis to start distributing them in late 2021. They are planning to start by distributing the taxis at the subway stations. Therefore, they need to decide the distribution plan based on the number of units per station and the total number of exits per station.
 
 # Value to the company
 * Increase the availability of self-driving taxis at the most crowded stations.
