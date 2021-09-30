@@ -2,7 +2,7 @@
 Rawabi Alharbi
 
 ## Abstract
-The goal of this project was to ...      
+The goal of the New York City Taxi and Limousine Commission (TLC) is to have the best distribution plan for the test distribution of their new self-driving taxis around the nearest subway stations to any park. This plan can be designed based on certain statistics and calculations of data that is related to the subway stations. The primary goal of this project is to design the distribution plan where the chosen stations should have the highest number of exits, each weekday and each month. I worked with MTA official data analyzing where should these self-driving taxis be placed at.
 
 ## Design
 The New York City Taxi and Limousine Commission (TLC) is an agency that is responsible for licensing and regulating New York City's taxi cabs. For the last four years, TLC has been working on making 5000 self-driving taxis to start officially distributing them in late 2022. But as a first step, They are planning to test 50 self-driving taxis at 5 different subway stations that are the nearest to a park since these test taxis are going to be able to only take the passenger from the station to the nearest park to ensure passengers safety of a short ride through this testing experience. In addition, this test is going to take place on one of the last three months of 2021, three days per week. Therefore, they need to decide the distribution plan based on the highest number of registered exits per station near the park, the highest number of registered exits per station per month, and the average total number of registered exits per weekday.
