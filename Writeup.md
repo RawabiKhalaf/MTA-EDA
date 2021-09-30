@@ -26,6 +26,7 @@ The MTA data which contains partainign the turnstile gate for each station.  The
   3. Fixing turnstiles issue
 
 * Methodology of exploring the data:
+
 The data was filtered based on the stations that are neer to any park, then the average total number of registered exits was calculated for each.
 The average total number of registered exits was calculated also for each of the filtered stations for each month. As a last calculation, the average total number of registered exits was taken for each day of the week in order to find the hieghst three week days.
 
