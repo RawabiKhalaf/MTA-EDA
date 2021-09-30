@@ -30,7 +30,7 @@ The data was filtered based on the stations that are neer to any park, then the 
 The average total number of registered exits was calculated also for each of the filtered stations for each month. As a last calculation, the average total number of registered exits was taken for each day of the week in order to find the hieghst three week days.
 
 ## Tools
-- Python and jupyter Notebook
+- Python and Jupyter Notebook
 - Numpy and Pandas for data manipulation
 - Matplotlib and Seaborn for plotting visuialization
 - SQLAlchony and SQLite for importing, exporting, storing and exploring the data.
