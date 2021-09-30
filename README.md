@@ -1,4 +1,4 @@
-# MTA EDA Project
+# MTA Exploratory Data Analysis Project
 
 SDAIA T5 Data Science Bootcamp EDA Project
 
