@@ -1,4 +1,4 @@
-# NYC Self-Driving Taxis Distribution Plan
+# NYC Self-Driving Taxis Distribution Plan - Exploratory Data Analysis Project
 Rawabi Alharbi
 
 ## Abstract
