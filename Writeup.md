@@ -39,7 +39,3 @@ The average total number of registered exits was calculated also for each of the
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/87195262/135451326-0885b08b-4fa0-4a19-93d3-54a48736e7dd.png">
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/87195262/135451335-dd7a51fe-71a1-430d-b04f-352f8f141de9.png">
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/87195262/135451344-74edccb4-2749-4089-8262-85b911859b1d.png">
-
-
-
-## Tools
