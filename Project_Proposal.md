@@ -1,5 +1,5 @@
-# Self-Driving Taxis Distribution Plan
-![TLC logo](https://user-images.githubusercontent.com/87195262/134807871-6389592c-65f6-4fda-81be-86e3923bf1d9.png)
+# Riyadh Lands Price Prediction
+![TLC logo](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igy9JAuHyivI/v1/1000x-1.jpg)
 
 # Company info
 The New York City Taxi and Limousine Commission (TLC) is an agency that is responsible for licensing and regulating New York City's taxi cabs. Over 200,000 TLC licensees complete approximately 1,000,000 trips each day.
